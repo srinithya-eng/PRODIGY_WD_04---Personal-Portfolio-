@@ -4,11 +4,6 @@ Personal portfolio website built using HTML and CSS to showcase my skills, proje
 This is my personal portfolio website built using **HTML, CSS, and basic JavaScript**.  
 It showcases my skills, projects, and achievements as a Computer Science student and aspiring web developer.
 
-## 🚀 Live Preview
-(If you enable GitHub Pages, add link here)
-
-👉 https://your-username.github.io/portfolio-website/
-
 ## 📌 Features
 
 - Responsive personal portfolio design
